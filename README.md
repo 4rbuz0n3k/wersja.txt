@@ -1,0 +1,2 @@
+# wersja.txt
+wersja.txt
